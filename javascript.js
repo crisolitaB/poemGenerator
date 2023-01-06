@@ -3,7 +3,7 @@ var poems = [
     'b',
     'c',
     'd'
-]
+];
 
 function newPoem() {
     var randomNumber = Math.floor(Math.random()* (poems.length));
