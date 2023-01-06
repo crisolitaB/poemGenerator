@@ -1,8 +1,8 @@
 var poems = [
-    'a',
-    'b',
-    'c',
-    'd'
+    'ay',
+    'bay',
+    'cray',
+    'day'
 ];
 
 function newPoem() {
